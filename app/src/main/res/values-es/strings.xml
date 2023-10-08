@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My First Android App</string>
+    <string name="Maybe_Hello_World">¡Hola, Universo Paralelo!\n\n
+        Si estás sintonizando, has encontrado el código adecuado para un paseo interdimensional de diversión.</string>
+
+</resources>
